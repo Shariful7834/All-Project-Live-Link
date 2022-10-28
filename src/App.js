@@ -1,23 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h2>My All React Project Live Link</h2>
+      <ul>
+        <li>https://ema-john-simple-9ddad.firebaseapp.com/</li>
+        <li>https://techskillsedu.firebaseapp.com/</li>
+        <li>https://prottoytechlab.netlify.app/</li>
+        <li>https://fitx-dortmund.netlify.app/</li>
+        <li>https://isd-usa-first-demo.netlify.app/</li>
+        <li>https://type-monster-dynamic.netlify.app/</li>
+        <li>https://thedailypress.netlify.app/</li>
+        <li>https://learnbyclick.netlify.app/</li>
+        <li>https://learnbyclick.netlify.app/</li>
+        <li>https://learnbyclick.netlify.app/</li>
+      </ul>
     </div>
   );
 }
